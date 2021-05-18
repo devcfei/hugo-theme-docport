@@ -1,5 +1,6 @@
 .DS_Store
-/exampleSite/public/
+exampleSite/public
+exampleSite/resources
 /hugo-0*
 /notes.md
 /hugoBasicExample/
