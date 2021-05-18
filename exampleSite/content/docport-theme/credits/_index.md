@@ -91,4 +91,3 @@ subpage: true
 
 ## Tooling
 * [Hugo](https://gohugo.io/) 
-* [Netlify CMS](https://www.netlifycms.org/) 
