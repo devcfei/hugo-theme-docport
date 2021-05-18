@@ -6,7 +6,6 @@ title = "Advde"
 theme = "hugo-theme-docport"
 themesdir = "../.."
 pygmentsCodeFences = true
-pygmentsStyle = "monokai"
 
 
 defaultContentLanguageInSubdir= false
